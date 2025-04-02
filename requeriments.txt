@@ -1,10 +1,11 @@
 ##Documentación Proyecto Final
 ## Las bibliotecas que voy a utilizar:
-- Biblioteca 1
-- Biblioteca N
+- discord.py
+- requests
+- os
 
 ## Referencias útiles:
-- Referencia 1
+- https://discordpy-readthedocs-io.translate.goog/en/stable/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 - Referencia N
 
 ## Los artículos de la guía que me ayudarán durante el desarrollo
