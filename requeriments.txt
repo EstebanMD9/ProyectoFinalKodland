@@ -1,12 +1,12 @@
 ##Documentación Proyecto Final
 ## Las bibliotecas que voy a utilizar:
 - discord.py
-- requests
-- os
+- random
+- 
 
 ## Referencias útiles:
-- https://discordjs.guide/popular-topics/embeds.html#embed-preview(Documentación de Embeds)
-- Referencia N
+- https://discordjs.guide/popular-topics/embeds.html#embed-preview(Documentación de Embeds.js)
+- https://discordpy.readthedocs.io/en/stable/api.html?highlight=embed#discord.Embed(Documentación de Embeds.discord)
 
 ## Los artículos de la guía que me ayudarán durante el desarrollo
 Un breve comentario que le ayudará a recordar de qué trata el artículo... [una palabra clicable que contendrá el enlace](https://enlace_al_artículo)
